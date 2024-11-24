@@ -1,4 +1,4 @@
-# 🌸 Welcome to My GitHub! 🌸
+🌸 Welcome to My GitHub! 🌸
 
 ![Anime Banner]([https://imgur.com/l6iMagD])
 *(Replace this link with your custom anime-themed banner)*
@@ -26,8 +26,10 @@ When I’m not coding, you can find me:
 </p>
 
 ## ⛩️ **Letcoode Stats**
-
+<a href="https://github.com/Wefdzen"><img align="right" width="200" src="./think-goblin-slayer.gif"></a>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/wefdzen?theme=nord&font=Chivo)
+
+
 
 ### 🌸 Why Golang?  
 - Simplicity 🌱  
