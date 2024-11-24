@@ -25,7 +25,9 @@ When I’m not coding, you can find me:
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Wefdzen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiyagawaMizu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
 ## **⛩️ Leetcode Stats**
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/wefdzen?theme=nord&font=Chivo)
+
 ### 🌸 Why Golang?  
 - Simplicity 🌱  
 - Performance 🚀  
