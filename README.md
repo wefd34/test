@@ -1,6 +1,6 @@
 # 🌸 Welcome to My GitHub! 🌸
 
-![Anime Banner]([https://imgur.com/l6iMagD](https://imgur.com/l6iMagD))  
+![Anime Banner]([https://imgur.com/l6iMagD])
 *(Replace this link with your custom anime-themed banner)*
 
 ---
