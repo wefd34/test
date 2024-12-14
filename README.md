@@ -26,7 +26,7 @@ When I’m not coding, you can find me:
 </p>
 
 ## ⛩️ **Letcoode Stats**
-<a href="https://github.com/Wefdzen"><img align="right" width="200" src="./think-goblin-slayer.gif"></a>
+<a href="https://github.com/Wefdzen"><img align="right" width="200" src="./a383b9b1-c5c0-4b6c-a4e2-ec4f142b3eac.png"></a>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/wefdzen?theme=nord&font=Chivo)
 
 
